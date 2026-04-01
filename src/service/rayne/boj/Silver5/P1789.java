@@ -11,5 +11,6 @@ public class P1789 {
     while (input >= 0) input -= result++;
 
     System.out.println(result - 2);
+    scanner.close();
   }
 }

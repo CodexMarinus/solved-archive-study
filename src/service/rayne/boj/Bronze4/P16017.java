@@ -9,5 +9,7 @@ public class P16017 {
 
     if (inputArr[0] >= 8 && inputArr[3] >= 8 && inputArr[1] == inputArr[2]) System.out.println("ignore");
     else System.out.println("answer");
+
+    scanner.close();
   }
 }

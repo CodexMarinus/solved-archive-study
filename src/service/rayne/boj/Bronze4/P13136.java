@@ -10,5 +10,6 @@ public class P13136 {
     long camRange = scanner.nextLong();
 
     System.out.println(((col + (camRange - 1)) / camRange) * ((row + (camRange - 1)) / camRange));
+    scanner.close();
   }
 }
