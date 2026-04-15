@@ -5,5 +5,7 @@
 <br><br>
 알고리즘 공부용으로 활용된 문제 또는 문제 해결에 외부 사이트의 도움을 받았던 문제는<br>
 해당 사항을 코드 내에 주석으로 명시하고 있습니다.
+<br><br>
+백준의 서비스 종료로 인해 더 이상 다루지 않게 되었습니다.
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=livecode" />
